@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Image_click_test</string>
+
+    <string name="map_key" translatable="false">
+        AIzaSyB_qsP8AOP_P0MdlPz-48TDaJYjTP3vbjo
+    </string>
+</resources>
